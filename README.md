@@ -1,1 +1,2 @@
-Rain
+#!/bin/bash
+shell basics
